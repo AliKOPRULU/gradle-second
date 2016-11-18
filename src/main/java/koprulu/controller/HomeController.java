@@ -6,4 +6,5 @@ package koprulu.controller;
 public class HomeController {
     //Ali Second test çalışmadı
     //config değiştirilip yeniden :)
+    //olmadı yeniden
 }
