@@ -34,7 +34,7 @@ public class Main {
 			.get("hello", ctx -> {
   RelativisticModel.select();
   Amount<Mass> m = Amount.valueOf("12 GeV").to(KILOGRAM);
-  ctx.render("E=mc^2: 12 GeV = " + m.toString());
+  ctx.render("E=mc^2: 12 GeV = " + m.toString()+" Ali test için deneyeceğiz");
 })
 
 
